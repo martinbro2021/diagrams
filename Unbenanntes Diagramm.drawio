@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T14:37:45.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="4I3u8HdKiiy_HKf9pkwC" type="github"><diagram id="bz9Eq8JMbJ4_i9qMpHe0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-06T15:29:10.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="4TElbDJEgtYBS6VkkCsu" type="github">
+  <diagram id="FOkq7aJn0kaiIH_pjuK1" name="Seite-1">
+    <mxGraphModel dx="1038" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-2" target="ZG0_Ds8m2dSNB0TBBCTp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-2" value="Probleme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-3" target="ZG0_Ds8m2dSNB0TBBCTp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-3" value="Erkenntnisinteressen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-4" target="ZG0_Ds8m2dSNB0TBBCTp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="260" />
+              <mxPoint x="100" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-4" value="Praxis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-5" target="ZG0_Ds8m2dSNB0TBBCTp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-5" value="Erkenntnisangebote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-6" target="ZG0_Ds8m2dSNB0TBBCTp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-6" value="Erkenntniswege" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mangelhafte Anpassung an digitale Möglichkeiten&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-14" value="Angebot an neuen digitalen Möglichkeiten /&lt;br&gt;Akzeptanz oder Ablehnung der Angebote" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-15" value="- Konkurrenz&lt;br&gt;- Kundenumfragen&lt;br&gt;- Eigenentwicklungen" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-16" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. deskriptiv / empiristisch&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. theoretisch&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-17" value="Praktisches Erkenntnisinteresse" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-18" value="Problem: Online-Funktionen entsprechen nicht&amp;nbsp;&lt;br&gt;modernen digitalen Möglichkeiten" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-20" value="Wie löst die Konkurrenz das automatische Scannen?&lt;br&gt;Was sind die Kundenwünsche in Bezug auf diese Funktionen?&lt;br&gt;Können wir eine eigene Lösung entwickeln, die besser ist, als die bereits auf dem Markt vorhandenen?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-21" value="Eigeninteresse:&lt;br&gt;Online-Banking so einfach und bequem für Endnutzer gestalten&lt;br&gt;→ Produktwert erhöhen" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-22" value="1. Fragestellungen:&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a) Welche Lösungen werden bereits angeboten?&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b) Welche Lösungen werden am häufigsten verwendet / sind am beliebtesten?&lt;/span&gt;&lt;br&gt;2. Theoretische Forschung - eingene Lösungen zum automatischen Scannen entwickeln." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-23" value="Beispiel:&lt;br&gt;Online-Banking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-25" value="&lt;h1&gt;Anpassung an digitale Möglichkeiten&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="505" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
