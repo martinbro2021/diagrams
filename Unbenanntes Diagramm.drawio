@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T06:55:51.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="ylSjutipFWuwid3NvNHV" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T09:09:47.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J5RZaEAz74PlSgKAmZW8" version="20.6.0" type="github">
   <diagram id="FOkq7aJn0kaiIH_pjuK1" name="Seite-1">
     <mxGraphModel dx="1038" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-2" target="ZG0_Ds8m2dSNB0TBBCTp-3">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-2" target="ZG0_Ds8m2dSNB0TBBCTp-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-2" value="Probleme" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-2" value="Probleme" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-3" target="ZG0_Ds8m2dSNB0TBBCTp-6">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-3" target="ZG0_Ds8m2dSNB0TBBCTp-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-3" value="Erkenntnisinteressen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-3" value="Erkenntnisinteressen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-4" target="ZG0_Ds8m2dSNB0TBBCTp-2">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-4" target="ZG0_Ds8m2dSNB0TBBCTp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="260" />
@@ -24,58 +24,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-4" value="Praxis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-4" value="Praxis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-5" target="ZG0_Ds8m2dSNB0TBBCTp-4">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-5" target="ZG0_Ds8m2dSNB0TBBCTp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-5" value="Erkenntnisangebote" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-5" value="Erkenntnisangebote" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-6" target="ZG0_Ds8m2dSNB0TBBCTp-5">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="ZG0_Ds8m2dSNB0TBBCTp-6" target="ZG0_Ds8m2dSNB0TBBCTp-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-6" value="Erkenntniswege" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-6" value="Erkenntniswege" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mangelhafte Anpassung an digitale Möglichkeiten&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mangelhafte Anpassung an digitale Möglichkeiten&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-14" value="Angebot an neuen digitalen Möglichkeiten /&lt;br&gt;Akzeptanz oder Ablehnung der Angebote" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-14" value="Angebot an neuen digitalen Möglichkeiten /&lt;br&gt;Akzeptanz oder Ablehnung der Angebote" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="680" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-15" value="- Konkurrenz&lt;br&gt;- Kundenumfragen&lt;br&gt;- Eigenentwicklungen" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-15" value="- Konkurrenz&lt;br&gt;- Kundenumfragen&lt;br&gt;- Eigenentwicklungen" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="520" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-16" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. deskriptiv / empiristisch&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. theoretisch&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-16" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. deskriptiv / empiristisch&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. theoretisch&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-17" value="Praktisches Erkenntnisinteresse" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-17" value="Praktisches Erkenntnisinteresse" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-18" value="Online-Funktionen entsprechen nicht&amp;nbsp;&lt;br&gt;modernen digitalen Standards" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-18" value="Online-Funktionen entsprechen nicht&amp;nbsp;&lt;br&gt;modernen digitalen Standards" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-20" value="Wie löst die Konkurrenz das automatische Scannen?&lt;br&gt;Was sind die Kundenwünsche in Bezug auf die Funktionen?&lt;br&gt;Können wir eine eigene Lösung entwickeln, die besser ist, als die bereits auf dem Markt vorhandenen?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-20" value="Wie löst die Konkurrenz das automatische Scannen?&lt;br&gt;Was sind die Kundenwünsche in Bezug auf die Funktionen?&lt;br&gt;Können wir eine eigene Lösung entwickeln, die besser ist, als die bereits auf dem Markt vorhandenen?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="520" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-21" value="Online-Banking so einfach und bequem für Endnutzer gestalten&lt;br&gt;→ Produktwert erhöhen" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-21" value="Online-Banking so einfach und bequem für Endnutzer gestalten&lt;br&gt;→ Produktwert erhöhen" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-22" value="1. Fragestellungen:&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a) Welche Lösungen werden bereits angeboten?&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b) Welche Lösungen werden am häufigsten verwendet / sind am beliebtesten?&lt;/span&gt;&lt;br&gt;2. Theoretische Forschung - eingene Lösungen zum automatischen Scannen entwickeln." style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-22" value="1. Fragestellungen:&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a) Welche Lösungen werden bereits angeboten?&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b) Welche Lösungen werden am häufigsten verwendet / sind am beliebtesten?&lt;/span&gt;&lt;br&gt;2. Theoretische Forschung - eigene Lösungen zum automatischen Scannen entwickeln." style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="360" y="520" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-23" value="Beispiel:&lt;br&gt;Online-Banking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-23" value="Beispiel:&lt;br&gt;Online-Banking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-25" value="&lt;h1&gt;Anpassung an digitale Möglichkeiten&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-25" value="&lt;h1&gt;Anpassung an digitale Möglichkeiten&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="505" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-28" value="Neue Online-Funktionen freischalten, Akzeptanz und Beliebtheit ermitteln -&lt;br&gt;bei Nicht-Akzeptanz:&lt;br&gt;Zyklus erneut durchlaufen." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-28" value="Neue Online-Funktionen freischalten, Akzeptanz und Beliebtheit ermitteln -&lt;br&gt;bei Nicht-Akzeptanz:&lt;br&gt;Zyklus erneut durchlaufen." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="680" y="520" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-29" value="&lt;i&gt;Abbildung: Anpassung an digitale Möglichkeiten, eigene Darstellung&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-29" value="&lt;i&gt;Abbildung: Anpassung an digitale Möglichkeiten, eigene Darstellung&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="770" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
