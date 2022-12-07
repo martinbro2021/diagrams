@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T06:51:59.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="qCl3SNGxRFML2IX6-e47" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T06:55:51.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="ylSjutipFWuwid3NvNHV" type="github">
   <diagram id="FOkq7aJn0kaiIH_pjuK1" name="Seite-1">
     <mxGraphModel dx="1038" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
         <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-18" value="Online-Funktionen entsprechen nicht&amp;nbsp;&lt;br&gt;modernen digitalen Standards" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-20" value="Wie löst die Konkurrenz das automatische Scannen?&lt;br&gt;Was sind die Kundenwünsche in Bezug auf diese Funktionen?&lt;br&gt;Können wir eine eigene Lösung entwickeln, die besser ist, als die bereits auf dem Markt vorhandenen?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-20" value="Wie löst die Konkurrenz das automatische Scannen?&lt;br&gt;Was sind die Kundenwünsche in Bezug auf die Funktionen?&lt;br&gt;Können wir eine eigene Lösung entwickeln, die besser ist, als die bereits auf dem Markt vorhandenen?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="520" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-21" value="Online-Banking so einfach und bequem für Endnutzer gestalten&lt;br&gt;→ Produktwert erhöhen" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -72,8 +72,11 @@
         <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-25" value="&lt;h1&gt;Anpassung an digitale Möglichkeiten&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="505" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-28" value="Neue Online-Funktionen freischalten, Akzeptanz und Beliebtheit ermitteln -" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-28" value="Neue Online-Funktionen freischalten, Akzeptanz und Beliebtheit ermitteln -&lt;br&gt;bei Nicht-Akzeptanz:&lt;br&gt;Zyklus erneut durchlaufen." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="680" y="520" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG0_Ds8m2dSNB0TBBCTp-29" value="&lt;i&gt;Abbildung: Anpassung an digitale Möglichkeiten, eigene Darstellung&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
