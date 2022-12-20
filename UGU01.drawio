@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T08:13:04.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="SErGEdTCMil24saZo0uL" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T11:50:28.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="YqqkZUBL-gGnkffEHFd0" type="github">
   <diagram id="7QbTI-Qd8rcOK8mCKrct" name="Seite-1">
     <mxGraphModel dx="1038" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,9 @@
         <mxCell id="zIE0uOBCSvr7S64_03uh-56" value="Adenauer,&lt;br&gt;Kiesinger,&lt;br&gt;..." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zIE0uOBCSvr7S64_03uh-62" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIE0uOBCSvr7S64_03uh-57" target="zIE0uOBCSvr7S64_03uh-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zIE0uOBCSvr7S64_03uh-57" value="soziale Marktwirtschaft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -129,6 +132,15 @@
         </mxCell>
         <mxCell id="zIE0uOBCSvr7S64_03uh-60" value="Existenzsicherung" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="320" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIE0uOBCSvr7S64_03uh-61" value="Wohlfahrtsstaat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIE0uOBCSvr7S64_03uh-63" value="2022:&lt;br&gt;Bürgergeld" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIE0uOBCSvr7S64_03uh-64" value="&lt;i&gt;Nordisches&lt;br&gt;Modell&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
