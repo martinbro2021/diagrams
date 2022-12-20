@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T07:12:01.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="lchn2lUrZGPpFCWnwu_o" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T07:22:16.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="rE90mxqJz1nPNjLJ_Lzl" type="github">
   <diagram id="7QbTI-Qd8rcOK8mCKrct" name="Seite-1">
     <mxGraphModel dx="1038" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,11 +70,20 @@
         <mxCell id="zIE0uOBCSvr7S64_03uh-30" value="AO&lt;br&gt;Abgabenordnung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zIE0uOBCSvr7S64_03uh-38" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="zIE0uOBCSvr7S64_03uh-31" target="zIE0uOBCSvr7S64_03uh-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zIE0uOBCSvr7S64_03uh-31" value="Tauschwirtschaft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zIE0uOBCSvr7S64_03uh-35" value="marktwirtschaftl.&lt;br&gt;Verhandlung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIE0uOBCSvr7S64_03uh-37" value="freie Marktwirtschaft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIE0uOBCSvr7S64_03uh-39" value="Manchester&lt;br&gt;1820" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
